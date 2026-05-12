@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_wiki"
+        android:icon="@drawable/ic_wiki"
+        android:title="Wiki"/>
+
+    <item
+        android:id="@+id/nav_alert"
+        android:icon="@drawable/ic_alert"
+        android:title="Alert"/>
+
+    <item
+        android:id="@+id/nav_guide"
+        android:icon="@drawable/ic_guide"
+        android:title="Co-exist"/>
+
+    <item
+        android:id="@+id/nav_sounds"
+        android:icon="@drawable/ic_sounds"
+        android:title="Sounds"/>
+
+</menu>

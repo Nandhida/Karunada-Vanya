@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="forest_dark">#1B4332</color>
+    <color name="forest_primary">#2D6A4F</color>
+    <color name="forest_light">#40916C</color>
+    <color name="forest_mint">#74C69D</color>
+    <color name="amber">#F4A261</color>
+    <color name="red_alert">#D62828</color>
+    <color name="white">#FFFFFF</color>
+    <color name="background">#F0F4F0</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="text_primary">#1B4332</color>
+    <color name="text_secondary">#52796F</color>
+</resources>
